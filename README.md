@@ -18,7 +18,7 @@ This project is an interactive HR Analytics Dashboard built using Power BI, SQL,
 - Experience Analysis
 
 ## 📷 Dashboard Preview
-(We'll add the dashboard image here in the next step.)
+![HR Analytics Dashboard](dashboard.png)
 
 ## 📈 Key Insights
 - Attrition Rate: 16.3%
